@@ -1,5 +1,9 @@
 body{
     text-align: center;
+    
+}
+
+header{
     background: linear-gradient(#c7c0c0,white ,red,white ,#c7c0c0);
 }
 h1  {
