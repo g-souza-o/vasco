@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: linear-gradient(rgb(199, 192, 192) 50%,white 45% , red 5%,white 45%,rgb(199, 192, 192));
+    background-image: linear-gradient(#c7c0c0,white  , red 5%,white ,#c7c0c0);
 }
 h1  {
     border: 2px solid #000000;
