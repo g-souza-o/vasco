@@ -2,10 +2,10 @@ body{
     text-align: center;
 }
 h1  {
-    border: 2px solid rgb(0, 0, 0);
-    background-color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+    background-color: #000000;
     color: white;
 }
 .imagem-vasco{
-    width: 300px;
+    width: 100px;
 }
